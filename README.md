@@ -23,6 +23,7 @@ Plotting the scatter plot from two cryptocurrency features directly does not eff
 
 
 **Tradable Cryptocurrencies Table**   (Refer Image- Deliverable4-c)
+
 Most of the cryptocurrencies are part of class #0 and #1.
 
 ## Summary
